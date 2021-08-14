@@ -12,7 +12,7 @@ export class AppComponent implements OnInit {
 
     res: any
 
-    title = 'It is MY NEW TITLE';
+    title = 'Random string generator';
     getColor() {
         return fontColor;
     }
